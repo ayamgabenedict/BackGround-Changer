@@ -15,7 +15,7 @@ This project is built with [React](https://react.dev) JS library and the [Vite](
 2.  **Installing project dependencies**
     To get started with Vite, follow these steps:
 
-        Install Vite: You can install Vite using npm (Node Package Manager). Open your terminal and run the following command:
+    Install Vite: You can install Vite using npm (Node Package Manager). Open your terminal and run the following command:
 
     ```bash
     npm install vite@latest
