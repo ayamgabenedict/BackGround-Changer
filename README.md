@@ -55,4 +55,4 @@ npm run dev
 
 ## Acknowledgements
 
-- [Hitesh Choudhary](https://hiteshchoudhary.com/) The project was developed as a part of a React Video tutorial on [Youtube](https://www.youtube.com/watch?v=4DqAvWonPAg).
+- [Hitesh Choudhary](https://hiteshchoudhary.com/) The project was developed as part of a React Video tutorial on [Youtube](https://www.youtube.com/watch?v=4DqAvWonPAg).
